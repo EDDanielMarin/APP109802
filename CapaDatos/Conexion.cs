@@ -9,6 +9,7 @@ namespace CapaDatos
 {
     class Conexion
     {
+        //45454
         public static string Cn = Properties.Settings.Default.cn;
 
     }
